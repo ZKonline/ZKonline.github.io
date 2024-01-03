@@ -85,7 +85,7 @@ author:
   bio              : "Lecturer in Electrical Engineering at the Data Science AI and Modelling (DAIM) Centre, University of Hull"
   location         : "Kingston upon Hull, United Kingdom"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xGCYwH8AAAAJ&hl=zh-CN"
   email            : "Z.Guo2@hull.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Zekun-Guo-2"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
